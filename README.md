@@ -23,7 +23,3 @@ The system analyzes SMS text using Natural Language Processing (NLP) techniques 
 - NumPy
 - Scikit-learn
 - Natural Language Processing (NLP)
-
----
-
-## 📂 Project Structure
